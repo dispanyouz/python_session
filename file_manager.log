@@ -1,0 +1,34 @@
+2023-12-03 19:25:17,880 - ERROR - Error listing files: [WinError 3] Системе не удается найти указанный путь: '.\\Рабочий стол'
+2023-12-03 19:25:17,880 - ERROR - Error creating file .\Рабочий стол\new_file.txt: [Errno 2] No such file or directory: '.\\Рабочий стол\\new_file.txt'
+2023-12-03 19:25:17,880 - ERROR - File not found: .\Рабочий стол\file_to_delete.txt
+2023-12-03 19:25:56,968 - ERROR - Error listing files: [WinError 3] Системе не удается найти указанный путь: '.\\Riot games'
+2023-12-03 19:25:56,968 - ERROR - Error creating file .\Riot games\new_file.txt: [Errno 2] No such file or directory: '.\\Riot games\\new_file.txt'
+2023-12-03 19:25:56,968 - ERROR - File not found: .\Riot games\file_to_delete.txt
+2023-12-03 19:27:21,218 - INFO - Listing files in C:\Python test dir: ['Microsoft Access Database.accdb', 'Text Document.txt', 'Архив WinRAR.rar']
+2023-12-03 19:27:21,218 - INFO - File created: C:\Python test dir\new_file.txt
+2023-12-03 19:27:21,218 - ERROR - File not found: C:\Python test dir\file_to_delete.txt
+2023-12-03 19:30:43,774 - ERROR - Error listing files: [WinError 3] Системе не удается найти указанный путь: '/path/to/your/directory'
+2023-12-03 19:32:35,387 - INFO - Listing files in C:\Python test dir: ['Microsoft Access Database.accdb', 'new_file.txt', 'Text Document.txt', 'Архив WinRAR.rar']
+2023-12-03 19:33:12,568 - INFO - File edited: C:\Python test dir\new_file.txt
+2023-12-03 19:34:49,193 - ERROR - File not found: /path/to/your/directory\new_file.txt
+2023-12-03 19:35:36,943 - ERROR - Error listing files: [WinError 3] Системе не удается найти указанный путь: '/path/to/your/directory'
+2023-12-03 19:36:05,097 - INFO - File viewed: C:\Python test dir\new_file.txt
+2023-12-03 19:36:50,243 - INFO - File viewed: C:\Python test dir\new_file.txt
+2023-12-07 10:21:40,707 - INFO - Listing files in C:\Python test dir: ['Microsoft Access Database.accdb', 'new_file.txt', 'Text Document.txt', 'Архив WinRAR.rar']
+2023-12-07 10:21:59,034 - INFO - File created: C:\Python test dir\test2
+2023-12-07 10:22:13,079 - INFO - File edited: C:\Python test dir\test2.txt
+2023-12-07 10:22:21,004 - INFO - File viewed: C:\Python test dir\test2.txt
+2023-12-07 10:22:31,394 - INFO - File deleted: C:\Python test dir\test2.txt
+2023-12-07 10:22:33,369 - INFO - Listing files in C:\Python test dir: ['Microsoft Access Database.accdb', 'new_file.txt', 'test2', 'Text Document.txt', 'Архив WinRAR.rar']
+2023-12-19 20:22:30,925 - ERROR - Error creating file C:\Python test dir\salam: [Errno 2] No such file or directory: 'C:\\Python test dir\\salam'
+2023-12-19 20:24:27,455 - ERROR - File not found: C:\Python test dir\salam
+2023-12-19 20:24:37,321 - ERROR - File not found: C:\Python test dir\salam
+2023-12-20 00:22:50,079 - ERROR - Error listing files: [WinError 3] Системе не удается найти указанный путь: 'C:\\Python test dir'
+2023-12-20 00:22:54,569 - ERROR - Error creating file C:\Python test dir\fff: [Errno 2] No such file or directory: 'C:\\Python test dir\\fff'
+2023-12-20 00:23:40,507 - INFO - File created: C:\Python test dir\salam
+2023-12-20 00:26:11,805 - INFO - Listing files in C:\Python test dir: ['salam']
+2023-12-20 00:27:56,145 - INFO - Listing files in C:\Python test dir: ['salam']
+2023-12-20 00:28:05,181 - INFO - File edited: C:\Python test dir\salam
+2023-12-20 00:28:11,775 - INFO - File viewed: C:\Python test dir\salam
+2023-12-20 00:28:47,183 - INFO - Listing files in C:\Python test dir: ['salam']
+2023-12-20 00:33:18,114 - INFO - Listing files in C:\Python test dir: ['salam']
